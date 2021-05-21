@@ -1,0 +1,4 @@
+/home/a/CLionProjects/cbaps/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/a/CLionProjects/cbaps/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/a/CLionProjects/cbaps/cmake-build-debug/CMakeFiles/baps_shared.dir
+/home/a/CLionProjects/cbaps/cmake-build-debug/CMakeFiles/baps_static.dir

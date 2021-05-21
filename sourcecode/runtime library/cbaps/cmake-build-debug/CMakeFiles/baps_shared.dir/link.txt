@@ -1,0 +1,1 @@
+clang -fPIC -rdynamic -g -O0 -lm -ldl -g  -shared -Wl,-soname,libbaps.so -o libbaps.so CMakeFiles/baps_shared.dir/lib/baps.c.o  -ldl 

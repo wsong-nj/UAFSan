@@ -1,0 +1,2 @@
+/usr/bin/ar qc libbaps.a  CMakeFiles/baps_static.dir/lib/baps.c.o
+/usr/bin/ranlib libbaps.a

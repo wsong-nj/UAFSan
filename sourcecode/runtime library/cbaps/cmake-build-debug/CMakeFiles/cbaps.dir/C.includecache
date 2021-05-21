@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/a/CLionProjects/cbaps/library.c
+library.h
+/home/a/CLionProjects/cbaps/library.h
+stdio.h
+-
+
+/home/a/CLionProjects/cbaps/library.h
+dlfcn.h
+-
+
